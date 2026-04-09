@@ -1,8 +1,8 @@
 class AnemllProfile < Formula
   desc "ANE (Apple Neural Engine) CostModel profiler for CoreML models"
   homepage "https://github.com/Anemll/anemll-profile"
-  url "https://github.com/Anemll/anemll-profile/archive/refs/tags/v0.3.2.tar.gz"
-  sha256 "37e813478dcd049fb1b2bdd7d650465dcf71a05fa40f30c2e6a85dbc68c38ecb"
+  url "https://github.com/Anemll/anemll-profile/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "a8358725491556e53ea64e0c3c8afc21e249760288ba4ca8e1f5ae37a9125d70"
   license "MIT"
 
   depends_on :macos
